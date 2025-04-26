@@ -1,15 +1,16 @@
-# Career Boost Interview Pro
+# Interview Pro
 
 A modern application designed to help users practice and improve their interview skills through an interactive chatbot interface.
 
 ## Features
 
-- Interactive interview chatbot
+- Interactive interview chatbot (coming soon)
 - User authentication system
 - Dashboard for tracking progress
 - Results analysis and feedback
 - Mobile-responsive design
 - Modern UI with Shadcn components
+  
 
 ## Tech Stack
 
@@ -17,11 +18,14 @@ A modern application designed to help users practice and improve their interview
 - **Build Tool**: Vite
 - **Styling**: TailwindCSS
 - **UI Components**: Shadcn UI (built on Radix UI)
-- **Form Handling**: React Hook Form with Zod validation
-- **Routing**: React Router DOM
-- **State Management**: React Context API
-- **Data Fetching**: TanStack Query (React Query)
 
+### Usage
+- Select a Domain: Choose a domain (e.g., SQL, Python) for your interview questions.
+- Start an Interview: Pick an interview mode (Technical or Behavioral) to begin.
+- Answer Questions: Respond to AI-generated questions, with options to retry or skip.
+- Review Feedback: Get immediate feedback and scores after each answer.
+- View Summary: After completing the interview, see a detailed report with strengths, areas to improve, and resources.
+  
 ## Prerequisites
 
 - Node.js (LTS version)
@@ -71,6 +75,12 @@ bun run dev
 - Performance metrics
 - Practice history
 - Skill assessment
+
+### Future Improvements
+- Add a backend (e.g., Node.js or PHP) with a database for persistent storage.
+- Implement a timer for each question to simulate real interview pressure.
+- Support more job roles and domains.
+- Add dark/light mode toggle for better accessibility.
 
 ## Contributing
 
