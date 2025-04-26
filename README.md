@@ -11,8 +11,8 @@ A modern application designed to help users practice and improve their interview
 - Mobile-responsive design
 - Modern UI with Shadcn components
 
-<img src="![Screenshot 2025-04-26 223024](https://github.com/user-attachments/assets/52c1d45b-192c-4ca2-9fd2-1dbbee2fb320)
-" alt="Screenshot" width="100"/>
+![signup page](![Screenshot 2025-04-26 223024](https://github.com/user-attachments/assets/d3cb05c2-f943-49c6-8eee-be4e118ffae9)
+
 
 
 ## Tech Stack
