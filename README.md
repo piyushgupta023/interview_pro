@@ -3,7 +3,6 @@
 A modern application designed to help users practice and improve their interview skills through an interactive chatbot interface.
 
 ## Features
-
 - Interactive interview chatbot (coming soon)
 - User authentication system
 - Dashboard for tracking progress
@@ -11,14 +10,13 @@ A modern application designed to help users practice and improve their interview
 - Mobile-responsive design
 - Modern UI with Shadcn components
 
-![signup page](![Screenshot 2025-04-26 223024](https://github.com/user-attachments/assets/d3cb05c2-f943-49c6-8eee-be4e118ffae9)
-<img src="![Screenshot 2025-04-26 223101](https://github.com/user-attachments/assets/c560208e-669d-46a6-ae70-ff53cb1c8221)
-">
-
-
+![Screenshot 2025-04-26 223024](https://github.com/user-attachments/assets/d3cb05c2-f943-49c6-8eee-be4e118ffae9)<br>
+![Screenshot 2025-04-26 223101](https://github.com/user-attachments/assets/b9d39f32-da17-4cd9-855b-8f6188a6a522)<br>
+![Screenshot 2025-04-26 223127](https://github.com/user-attachments/assets/9b88b3a3-4cca-453a-bf60-88a89aa245dd)<br>
+![Screenshot 2025-04-26 223302](https://github.com/user-attachments/assets/3cdbb134-4052-42e3-9b4b-969927dd255f)<br>
+![Screenshot 2025-04-26 223419](https://github.com/user-attachments/assets/4ebb0621-b626-4874-89a1-fdf027fe3cb7)<br>
 
 ## Tech Stack
-
 - **Frontend Framework**: React with TypeScript
 - **Build Tool**: Vite
 - **Styling**: TailwindCSS
@@ -81,6 +79,10 @@ bun run dev
 - Practice history
 - Skill assessment
 
+<br>![Screenshot 2025-04-26 223328](https://github.com/user-attachments/assets/ca5af4d1-64fc-4b4c-b826-c7a4ad435732)<br>
+![Screenshot 2025-04-26 223449](https://github.com/user-attachments/assets/7417983d-c1f9-42d4-b8e0-6078ffe817a2)<br>
+![Screenshot 2025-04-26 223543](https://github.com/user-attachments/assets/a156dbae-2f2c-4f82-8bcc-3a7d5ae814a8)<br>
+
 ### Future Improvements
 - Add a backend (e.g., Node.js or PHP) with a database for persistent storage.
 - Implement a timer for each question to simulate real interview pressure.
@@ -88,7 +90,6 @@ bun run dev
 - Add dark/light mode toggle for better accessibility.
 
 ## Contributing
-
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
 3. Commit your changes (`git commit -m 'Add some amazing feature'`)
@@ -96,5 +97,4 @@ bun run dev
 5. Open a Pull Request
 
 ## License
-
 This project is licensed under the MIT License - see the LICENSE file for details.
