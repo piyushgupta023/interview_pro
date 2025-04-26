@@ -12,6 +12,8 @@ A modern application designed to help users practice and improve their interview
 - Modern UI with Shadcn components
 
 ![signup page](![Screenshot 2025-04-26 223024](https://github.com/user-attachments/assets/d3cb05c2-f943-49c6-8eee-be4e118ffae9)
+<img src="![Screenshot 2025-04-26 223101](https://github.com/user-attachments/assets/c560208e-669d-46a6-ae70-ff53cb1c8221)
+">
 
 
 
